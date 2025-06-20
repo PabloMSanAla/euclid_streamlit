@@ -5,7 +5,7 @@ import base64
 
 
 # === SETTINGS ===
-IMAGES_DIR = "/home/pmsa/code/euclid_streamlit/rgb/"  
+IMAGES_DIR = "rgb/"  
 IMAGE_SUFFIX = "_rgb-1.jpg"
 IMAGE_PREFIX = "source_"
 
